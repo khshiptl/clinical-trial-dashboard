@@ -1,6 +1,6 @@
-![Clinical Trials Dashboard](clinical-trials-dashboard.png)
-
 # Clinical Trial Insights Dashboard
+
+![Clinical Trials Dashboard](clinical-trials-dashboard.png)
 
 ### Overview
 This project analyzes and visualizes global clinical trial data using Python and Tableau.  
