@@ -1,3 +1,5 @@
+![Clinical Trials Dashboard](clinical-trials-dashboard.png)
+
 # Clinical Trial Insights Dashboard
 
 ### Overview
